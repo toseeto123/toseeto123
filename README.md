@@ -2,11 +2,10 @@
   
    ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCC33&text=DataGuide&fontColor=666666)
 </div><br>
-
-<div align="center">Welcome My GitHub Profile!</div>
+<div align="center">Namsu's GitHub Profile</div>
 <br><br>
 <div align="center">
-<span>🌱Skill Set</span>
+  <span><strong>🌱Skill Set</strong></span><br>
 </div>
 <div align="center">
 
@@ -15,16 +14,13 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
- 
 </span>
 </div>
 
 <div align="center">
-
   <span>
     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -36,7 +32,22 @@
   </span>
   </div><br><br>
   
-  <div align="center"></div>
+  <div align="center">
+  <span><strong>💬Running Project</strong></span>
+</div>
+ <div align="center">
+  <span>Dev-meet: node.js , mongodb를 활용한 개발자 커뮤니티 제작 </span>
+</div><br>
+<div align="center">
+  <span>2023-04-19 ~ 2023-05-05(예정) </span>
+</div><br>
+
+  <div align="center">
+  <span><strong>🤔my interest & what I learn</strong></span>
+</div>
+ <div align="center">
+  <span>Python,Flask,MongoDB To become Big-data Engineer</span>
+</div>
 <!--
 **toseeto123/toseeto123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
