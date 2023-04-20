@@ -2,13 +2,14 @@
   
    ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCC33&text=DataGuide&fontColor=666666)
 </div><br>
-<div align="center">Namsu's GitHub Profile</div>
+<div align="center">안녕하세요 데이터 길잡이 개발자 김남수입니다.</div>
+<div align="center"></div>
 <br><br>
 <div align="center">
-  <span><strong>🌱Skill Set</strong></span><br>
+  <span><strong>🌱Skill Set</strong></span>
 </div>
-<div align="center">
 
+<div align="center">
 <span>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -25,13 +26,14 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white">
-
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8cbe68?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-  
   </span>
-  </div><br><br>
-  
+  </div><br>
+  <div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toseeto123&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=toseeto123&show_icons=true">
+</div><br>
   <div align="center">
   <span><strong>💬Running Project</strong></span>
 </div>
@@ -47,7 +49,17 @@
 </div>
  <div align="center">
   <span>Python,Flask,MongoDB To become Big-data Engineer</span>
+</div><br>
+
+  <div align="center">
+  <span><strong>📫Blog</strong></span>
 </div>
+  <div align="center">
+  <span>개설준비중</span>
+</div>
+
+
+
 <!--
 **toseeto123/toseeto123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
