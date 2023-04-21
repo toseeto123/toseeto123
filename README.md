@@ -55,7 +55,8 @@
   <span><strong>📫Blog</strong></span>
 </div>
   <div align="center">
-  <span>개설준비중</span>
+	
+  <span>[남수킴 DataBase](https://kimbarbie.tistory.com)</span>
 </div>
 
 
