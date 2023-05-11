@@ -42,7 +42,7 @@
   <span><strong>🤔my interest & what I learn</strong></span>
 </div>
  <div align="center">
-  <span>Python,Flask,MongoDB To become Big-data Engineer</span>
+  <span>Big-Data,Node,MongoDB </span>
 </div><br>
 
   <div align="center">
