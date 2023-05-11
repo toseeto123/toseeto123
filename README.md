@@ -37,12 +37,6 @@
   <div align="center">
   <span><strong>💬Running Project</strong></span>
 </div>
- <div align="center">
-  <span>Dev-meet: node.js , mongodb를 활용한 개발자 커뮤니티 제작 </span>
-</div>
-<div align="center">
-  <span>2023-04-19 ~ 2023-05-05(예정) </span>
-</div><br>
 
   <div align="center">
   <span><strong>🤔my interest & what I learn</strong></span>
