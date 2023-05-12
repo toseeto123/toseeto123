@@ -34,15 +34,13 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toseeto123&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=toseeto123&show_icons=true">
 </div><br>
-  <div align="center">
+<div align="center">
   <span><strong>💬Running Project</strong></span>
 </div>
-</div><br>
-  <div align="center">
-  <span><strong>NS Profile Page</strong></span>
+ <div align="center">
+  <span><strong>Web Portfolio Page</strong></span><br>
   <span>Skill : Springboot,React,MongoDB</span>
-</div>
-
+</div><br><br>
 
   <div align="center">
   <span><strong>🤔my interest & what I learn</strong></span>
