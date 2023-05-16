@@ -46,7 +46,7 @@
   <span><strong>🤔my interest & what I learn</strong></span>
 </div>
  <div align="center">
-  <span>Big-Data,Node,MongoDB </span>
+  <span>Full-Stack,Big-Data,Node,MongoDB</span>
 </div><br>
 
   <div align="center">
@@ -54,7 +54,7 @@
 </div>
   <div align="center">
 	
-  <span>[남수킴 DataBase](https://kimbarbie.tistory.com)</span>
+  <span>[남수킴 DataBase][Notion](https://kimbarbie.tistory.com)</span>
 </div>
 
 
