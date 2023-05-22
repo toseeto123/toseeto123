@@ -54,7 +54,7 @@
 </div>
   <div align="center">
 	
-  <span>[남수킴 DataBase][Notion](https://kimbarbie.tistory.com)</span>
+  <span>[남수킴 DataBase][T-Story](https://kimbarbie.tistory.com)</span>
 </div>
 
 
