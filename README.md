@@ -35,7 +35,7 @@
   <span><strong>💬Running Project</strong></span>
 </div>
  <div align="center">
-  <span><strong>Web Portfolio Page</strong></span><br>
+  <span><strong>Web Developer Community</strong></span><br>
   <span>Skill : Springboot,React,MongoDB</span>
 </div><br><br>
 
