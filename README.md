@@ -30,10 +30,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   </span>
   </div><br>
-  <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toseeto123&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=toseeto123&show_icons=true">
-</div><br>
+ 
 <div align="center">
   <span><strong>💬Running Project</strong></span>
 </div>
