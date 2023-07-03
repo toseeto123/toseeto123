@@ -2,7 +2,7 @@
   
    ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCC33&text=DataGuide&fontColor=666666)
 </div><br>
-<div align="center">안녕하세요 데이터 길잡이 개발자 김남수입니다.</div>
+<div align="center">안녕하세요 백엔드 개발자 김남수입니다.</div>
 <div align="center"></div>
 <br><br>
 <div align="center">
